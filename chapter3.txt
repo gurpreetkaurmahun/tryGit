@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 “A thousand words will not leave so deep an impression as one deed.”
+=======
+“A thousand words will not leave so deep an impression as one deed.”
+>>>>>>> c2dc15dbbdbeed72e74df7cb162eb42179f93833

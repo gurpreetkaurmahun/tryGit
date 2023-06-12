@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The greatest glory in living lies not in never falling, but in rising every time we fall. - ...
+=======
+The greatest glory in living lies not in never falling, but in rising every time we fall. - ..
+>>>>>>> c2dc15dbbdbeed72e74df7cb162eb42179f93833
